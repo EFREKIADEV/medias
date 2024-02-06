@@ -1,0 +1,13 @@
+/* Estilos para o formulário */
+#formNotas {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+/* Estilos para os parágrafos */
+.resultados {
+    display: inline-block;
+    vertical-align: top;
+
+}
